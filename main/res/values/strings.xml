@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EMI CALCULATOR</string>
+    <string name="s1">LOAN AMOUNT</string>
+    <string name="s2">TENURE(MONTHS)</string>
+    <string name="s3">INTEREST RATE(%P.M)</string>
+    <string name="s4">DOWN PAYMENT</string>
+    <string name="B1"> FLAT EMI</string>
+    <string name="B2"> REDUCING EMI</string>
+    <string name="s5"> MONTHLY EMI </string>
+    <string name="s6"> PRINCIPAL AMOUNT </string>
+    <string name="s7"> INTEREST AMOUNT </string>
+    <string name="s8"> TOTAL AMOUNT PAYABLE </string>
+    <string name="thank_you">THANK YOU</string>
+</resources>
